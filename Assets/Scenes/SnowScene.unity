@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 502887835}
   - component: {fileID: 502887834}
   m_Layer: 0
-  m_Name: Cobblestone Sphere
+  m_Name: Rock 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -158,7 +158,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: f69acfcb2dec7bb43847fbc8f1116509, type: 2}
+  - {fileID: 2100000, guid: ce7e82a2d0a29c34ea48edb422c8b393, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -193,7 +193,7 @@ Transform:
   m_GameObject: {fileID: 502887833}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 100, y: 65.1, z: 5.5}
-  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_LocalScale: {x: 10, y: 6, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 1005537621}
   - component: {fileID: 1005537620}
   m_Layer: 0
-  m_Name: Rockmesh Sphere
+  m_Name: Rock 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -243,7 +243,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 8af33a4120ac4486ba927ecb5d9bb635, type: 2}
+  - {fileID: 2100000, guid: cb70b184759f11a4c9af16f252a1c6b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -277,8 +277,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1005537619}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 96, y: 65.1, z: 15}
-  m_LocalScale: {x: 9, y: 9, z: 9}
+  m_LocalPosition: {x: 96, y: 70, z: 15}
+  m_LocalScale: {x: 6, y: 8, z: 7}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
@@ -510,7 +510,7 @@ GameObject:
   - component: {fileID: 1551418368}
   - component: {fileID: 1551418367}
   m_Layer: 0
-  m_Name: Rock 1 Sphere
+  m_Name: Rock 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -543,7 +543,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 269817710844ddc4fb07bc8ee29bae4f, type: 2}
+  - {fileID: 2100000, guid: f060a447ad19b8c4d87060548226e6a3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -577,8 +577,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1551418366}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 90, y: 65.1, z: 5.5}
-  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_LocalPosition: {x: 90, y: 69, z: 5.5}
+  m_LocalScale: {x: 9, y: 10, z: 7}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
